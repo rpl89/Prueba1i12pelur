@@ -1,11 +1,7 @@
 # include "./includes/miinclude.h"
-<<<<<<< HEAD
 #include <string.h>
-
-=======
->>>>>>> ramaA
 int main(){
 char c[100]= "Hola mundo";
-printf("%s\n", strcat(c,", soy i22lojal"));
+printf("%s\n", strcat(c,", soy i22lojal y i12sacat"));
 return 0;
 }
